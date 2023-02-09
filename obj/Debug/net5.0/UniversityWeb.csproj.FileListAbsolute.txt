@@ -1,0 +1,155 @@
+C:\Users\bcces\Desktop\UniversityWeb\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\bcces\Desktop\UniversityWeb\bin\Debug\net5.0\appsettings.json
+C:\Users\bcces\Desktop\UniversityWeb\bin\Debug\net5.0\UniversityWeb.exe
+C:\Users\bcces\Desktop\UniversityWeb\bin\Debug\net5.0\UniversityWeb.deps.json
+C:\Users\bcces\Desktop\UniversityWeb\bin\Debug\net5.0\UniversityWeb.runtimeconfig.json
+C:\Users\bcces\Desktop\UniversityWeb\bin\Debug\net5.0\UniversityWeb.runtimeconfig.dev.json
+C:\Users\bcces\Desktop\UniversityWeb\bin\Debug\net5.0\UniversityWeb.dll
+C:\Users\bcces\Desktop\UniversityWeb\bin\Debug\net5.0\ref\UniversityWeb.dll
+C:\Users\bcces\Desktop\UniversityWeb\bin\Debug\net5.0\UniversityWeb.pdb
+C:\Users\bcces\Desktop\UniversityWeb\bin\Debug\net5.0\UniversityWeb.Views.dll
+C:\Users\bcces\Desktop\UniversityWeb\bin\Debug\net5.0\UniversityWeb.Views.pdb
+C:\Users\bcces\Desktop\UniversityWeb\obj\Debug\net5.0\UniversityWeb.csproj.AssemblyReference.cache
+C:\Users\bcces\Desktop\UniversityWeb\obj\Debug\net5.0\UniversityWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bcces\Desktop\UniversityWeb\obj\Debug\net5.0\UniversityWeb.AssemblyInfoInputs.cache
+C:\Users\bcces\Desktop\UniversityWeb\obj\Debug\net5.0\UniversityWeb.AssemblyInfo.cs
+C:\Users\bcces\Desktop\UniversityWeb\obj\Debug\net5.0\UniversityWeb.csproj.CoreCompileInputs.cache
+C:\Users\bcces\Desktop\UniversityWeb\obj\Debug\net5.0\UniversityWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bcces\Desktop\UniversityWeb\obj\Debug\net5.0\UniversityWeb.RazorAssemblyInfo.cache
+C:\Users\bcces\Desktop\UniversityWeb\obj\Debug\net5.0\UniversityWeb.RazorAssemblyInfo.cs
+C:\Users\bcces\Desktop\UniversityWeb\obj\Debug\net5.0\staticwebassets\UniversityWeb.StaticWebAssets.Manifest.cache
+C:\Users\bcces\Desktop\UniversityWeb\obj\Debug\net5.0\staticwebassets\UniversityWeb.StaticWebAssets.xml
+C:\Users\bcces\Desktop\UniversityWeb\obj\Debug\net5.0\scopedcss\bundle\UniversityWeb.styles.css
+C:\Users\bcces\Desktop\UniversityWeb\obj\Debug\net5.0\UniversityWeb.TagHelpers.input.cache
+C:\Users\bcces\Desktop\UniversityWeb\obj\Debug\net5.0\UniversityWeb.TagHelpers.output.cache
+C:\Users\bcces\Desktop\UniversityWeb\obj\Debug\net5.0\UniversityWeb.RazorCoreGenerate.cache
+C:\Users\bcces\Desktop\UniversityWeb\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\bcces\Desktop\UniversityWeb\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\bcces\Desktop\UniversityWeb\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\bcces\Desktop\UniversityWeb\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\bcces\Desktop\UniversityWeb\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\bcces\Desktop\UniversityWeb\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\bcces\Desktop\UniversityWeb\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\bcces\Desktop\UniversityWeb\obj\Debug\net5.0\UniversityWeb.RazorTargetAssemblyInfo.cache
+C:\Users\bcces\Desktop\UniversityWeb\obj\Debug\net5.0\UniversityWeb.RazorTargetAssemblyInfo.cs
+C:\Users\bcces\Desktop\UniversityWeb\obj\Debug\net5.0\UniversityWeb.Views.pdb
+C:\Users\bcces\Desktop\UniversityWeb\obj\Debug\net5.0\UniversityWeb.dll
+C:\Users\bcces\Desktop\UniversityWeb\obj\Debug\net5.0\ref\UniversityWeb.dll
+C:\Users\bcces\Desktop\UniversityWeb\obj\Debug\net5.0\UniversityWeb.pdb
+C:\Users\bcces\Desktop\UniversityWeb\obj\Debug\net5.0\UniversityWeb.genruntimeconfig.cache
+C:\Users\bcces\Desktop\UniversityWeb\obj\Debug\net5.0\UniversityWeb.csproj.CopyComplete
+C:\Users\bcces\Desktop\UniversityWeb\bin\Debug\net5.0\Humanizer.dll
+C:\Users\bcces\Desktop\UniversityWeb\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\bcces\Desktop\UniversityWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bcces\Desktop\UniversityWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bcces\Desktop\UniversityWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bcces\Desktop\UniversityWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bcces\Desktop\UniversityWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bcces\Desktop\UniversityWeb\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\bcces\Desktop\UniversityWeb\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bcces\Desktop\UniversityWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bcces\Desktop\UniversityWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bcces\Desktop\UniversityWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bcces\Desktop\UniversityWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bcces\Desktop\UniversityWeb\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\bcces\Desktop\UniversityWeb\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\bcces\Desktop\UniversityWeb\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bcces\Desktop\UniversityWeb\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\bcces\Desktop\UniversityWeb\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bcces\Desktop\UniversityWeb\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bcces\Desktop\UniversityWeb\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bcces\Desktop\UniversityWeb\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bcces\Desktop\UniversityWeb\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\bcces\Desktop\UniversityWeb\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bcces\Desktop\UniversityWeb\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\bcces\Desktop\UniversityWeb\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bcces\Desktop\UniversityWeb\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\bcces\Desktop\UniversityWeb\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bcces\Desktop\UniversityWeb\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\bcces\Desktop\UniversityWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\bcces\Desktop\UniversityWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bcces\Desktop\UniversityWeb\obj\Debug\net5.0\Razor\Views\Shared\Components\AnnouncementList\Default.cshtml.g.cs
+C:\Users\bcces\Desktop\UniversityWeb\obj\Debug\net5.0\Razor\PartialView\Contact.cshtml.g.cs
+C:\Users\bcces\Desktop\UniversityWeb\obj\Debug\net5.0\Razor\Views\AdminPanel\Index.cshtml.g.cs
+C:\Users\bcces\Desktop\UniversityWeb\obj\Debug\net5.0\Razor\Views\AdminPanel\Update.cshtml.g.cs
+C:\Users\bcces\Desktop\UniversityWeb\obj\Debug\net5.0\Razor\Views\AdminPanel\Add.cshtml.g.cs
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\bin\Debug\net5.0\appsettings.json
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\bin\Debug\net5.0\UniversityWeb.StaticWebAssets.xml
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\bin\Debug\net5.0\UniversityWeb.exe
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\bin\Debug\net5.0\UniversityWeb.deps.json
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\bin\Debug\net5.0\UniversityWeb.runtimeconfig.json
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\bin\Debug\net5.0\UniversityWeb.runtimeconfig.dev.json
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\bin\Debug\net5.0\UniversityWeb.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\bin\Debug\net5.0\UniversityWeb.pdb
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\bin\Debug\net5.0\UniversityWeb.Views.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\bin\Debug\net5.0\UniversityWeb.Views.pdb
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\bin\Debug\net5.0\Humanizer.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\obj\Debug\net5.0\UniversityWeb.csproj.AssemblyReference.cache
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\obj\Debug\net5.0\UniversityWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\obj\Debug\net5.0\UniversityWeb.AssemblyInfoInputs.cache
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\obj\Debug\net5.0\UniversityWeb.AssemblyInfo.cs
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\obj\Debug\net5.0\UniversityWeb.csproj.CoreCompileInputs.cache
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\obj\Debug\net5.0\UniversityWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\obj\Debug\net5.0\UniversityWeb.RazorAssemblyInfo.cache
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\obj\Debug\net5.0\UniversityWeb.RazorAssemblyInfo.cs
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\obj\Debug\net5.0\scopedcss\bundle\UniversityWeb.styles.css
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\obj\Debug\net5.0\staticwebassets\UniversityWeb.StaticWebAssets.Manifest.cache
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\obj\Debug\net5.0\staticwebassets\UniversityWeb.StaticWebAssets.Pack.cache
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\obj\Debug\net5.0\staticwebassets\msbuild.UniversityWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\obj\Debug\net5.0\staticwebassets\msbuild.build.UniversityWeb.props
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.UniversityWeb.props
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.UniversityWeb.props
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\obj\Debug\net5.0\UniversityWeb.TagHelpers.input.cache
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\obj\Debug\net5.0\UniversityWeb.TagHelpers.output.cache
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\obj\Debug\net5.0\UniversityWeb.RazorCoreGenerate.cache
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\obj\Debug\net5.0\Razor\PartialView\Contact.cshtml.g.cs
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\obj\Debug\net5.0\Razor\Views\AdminPanel\Add.cshtml.g.cs
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\obj\Debug\net5.0\Razor\Views\AdminPanel\Index.cshtml.g.cs
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\obj\Debug\net5.0\Razor\Views\AdminPanel\Update.cshtml.g.cs
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\obj\Debug\net5.0\Razor\Views\Shared\Components\AnnouncementList\Default.cshtml.g.cs
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\obj\Debug\net5.0\UniversityWeb.RazorTargetAssemblyInfo.cache
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\obj\Debug\net5.0\UniversityWeb.RazorTargetAssemblyInfo.cs
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\obj\Debug\net5.0\UniversityWeb.Views.pdb
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\obj\Debug\net5.0\UniversityWeb.csproj.CopyComplete
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\obj\Debug\net5.0\UniversityWeb.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\obj\Debug\net5.0\refint\UniversityWeb.dll
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\obj\Debug\net5.0\UniversityWeb.pdb
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\obj\Debug\net5.0\UniversityWeb.genruntimeconfig.cache
+C:\Users\bcces\Desktop\Tamamlanan Projeler\UniversityWeb\UniversityWeb\obj\Debug\net5.0\ref\UniversityWeb.dll
