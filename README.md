@@ -1,3 +1,4 @@
 # UniversityWebSite
-asp.net core (C#) kullanılarak yapılan web projesi
-Admin girişi /AdminPanel ile sağlayabilirsiniz
+asp.net core project
+Basic university page
+If you want login admin page you can write this (/AdminPanel) in url
